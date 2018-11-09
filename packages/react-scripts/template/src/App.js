@@ -17,8 +17,8 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-           Test
-          </a>
+           LOL CI
+           </a>
         </header>
       </div>
     );
